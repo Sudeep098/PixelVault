@@ -1,6 +1,6 @@
 # 🖼 PixVault — Image Management System
 
-A full-stack image management system with metadata search, built with **Next.js + PostgreSQL + Cloudinary**, deployable on **Vercel** for free.
+A full-stack image management system with metadata search, built with **Next.js + PostgreSQL + Cloudinary**, deployable on **Vercel** for free. 
 
 ---
 
